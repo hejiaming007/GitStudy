@@ -1,3 +1,0 @@
-feature3
-feature3_2
-feature3_3
